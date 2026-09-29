@@ -1,0 +1,6 @@
+{
+  "name": "ANIMORA AI — Autonomous Anime Film Studio",
+  "description": "Transform any story into a coherent, full-length anime movie using agentic AI for story analysis, character consistency, scene planning, voice generation, and cinematography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
